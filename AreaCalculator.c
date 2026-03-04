@@ -15,9 +15,10 @@ int main(int argc, char *argv[]) {
 	scanf("%f", &h);
 	a = b*h;
 	
-	printf("O valor da area do retangulo em metros: %.2f\n10",a);
+	printf("O valor da area do retangulo em metros: %.2f\n",a);
 	system("\npause");
 	return 0;
 }
+
 
 
